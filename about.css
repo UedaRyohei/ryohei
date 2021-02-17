@@ -1,0 +1,160 @@
+body{
+  font-family: 'Times New Roman';
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.logo {
+  height: 100px;
+  width: auto;
+  float:left
+
+}
+
+
+span{
+  color: rgb(12, 221, 236);
+}
+
+.container1 {
+  display: flex;
+  padding-top:75px;
+}
+
+.nav-link{
+  margin:0 60px 0 60px ;
+  color: blue;
+  background-color: #abf1ec;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  border : solid 2px rgb(96, 153, 218) ;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  padding-top: 50px;
+
+}
+hr{
+  width: 10%;
+}
+
+.con1{
+  text-align: center;
+  padding-bottom: 100px;
+  font-size: 18px;
+}
+.main1{
+  text-align: left;
+  border : solid 5px rgb(12, 158, 177) ;
+  margin-bottom: 100px;
+  padding: 20px 100px 20px 100px;
+  margin-left: 400px;
+  margin-right: 400px;
+  font-weight: bolder;
+}
+.aaa1{
+  font-size: 30px;
+  color: rgb(12, 221, 236);
+}
+
+.aaa2{
+  font-size: 30px;
+}
+
+
+h2{
+  text-align: center;
+  font-size: 35px;
+}
+
+.main2{
+  text-align: left;
+  border : solid 5px rgb(12, 158, 177) ;
+  margin-bottom: 100px;
+  padding: 20px 100px 20px 100px;
+  margin-left: 400px;
+  margin-right: 400px;
+  font-weight: bolder;
+}
+
+.aaa6{
+  font-size: 30px;
+  color: rgb(12, 221, 236);
+}
+
+.aaa7{
+  font-size: 30px;
+}
+
+.main3{
+  text-align: left;
+  border : solid 5px rgb(12, 158, 177) ;
+  margin-bottom: 100px;
+  padding: 20px 100px 20px 100px;
+  margin-left: 400px;
+  margin-right: 400px;
+  font-weight: bolder;
+}
+
+.aaa8{
+  font-size: 30px;
+  color: rgb(12, 221, 236);
+}
+
+.aaa9{
+  font-size: 30px;
+}
+
+.main4{
+  text-align: left;
+  border : solid 5px rgb(12, 158, 177) ;
+  margin-bottom: 100px;
+  padding: 10px 100px 15px 100px;
+  margin-left: 400px;
+  margin-right: 400px;
+  font-weight: bolder;
+}
+
+.aaa13{
+  font-size: 30px;
+  color: rgb(12, 221, 236);
+}
+
+.aaa14{
+  font-size: 30px;
+}
+
+
+
+.aaa{
+  text-align:center ;
+}
+
+.footer-main{
+  background-color: black;
+  padding-bottom: 30px;
+}
+.footer{
+  text-align: right;
+}
+.footer-name{
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  padding-left:30px ;
+}
+
+.copyright{
+  color: white;
+  text-align: center;
+}
