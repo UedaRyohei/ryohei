@@ -1,0 +1,141 @@
+*{
+  box-sizing:border-box;
+}
+
+body{
+  font-family: 'Times New Roman';
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.logo {
+  height: 100px;
+  width: auto;
+  float:left
+
+}
+
+.container{
+  width: 100%;
+}
+
+
+.container1 {
+  display: flex;
+  padding-top:75px;
+}
+
+.nav-link{
+  margin:0 60px 0 60px ;
+  color: blue;
+  background-color: #abf1ec;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  border : solid 2px rgb(96, 153, 218) ; 
+}
+
+.contents{
+  background-image: url("mark_re.jpg");
+  background-size: 100%;
+  background-size:cover;
+  background-color: rgba(255, 255, 255, 0.85);
+  background-blend-mode: lighten;
+  padding-top: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+h1{
+  text-align: center;
+  font-size: 90px;
+  font-weight: 440;
+}
+p{
+  padding-top:50px ;
+  padding-bottom:500px ;
+  font-size: 30px;
+  font-weight: 50;
+  text-align: center;
+}
+
+
+
+
+.main1{
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 200px;
+  font-weight: bold;
+}
+
+.main2{
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 200px;
+  font-weight: bold;
+}
+
+
+
+.main3{
+  font-size: 50px;
+  text-align: justify;
+  font-weight: bolder;
+}
+.main4{
+  font-size: 25px;
+  text-align: left;
+  font-weight: bold;
+  padding-top: 50px;
+  padding-left: 100px;
+}
+
+span{
+  color: rgb(12, 221, 236);
+}
+.main5{
+  font-size: 25px;
+  text-align: left;
+  padding-bottom: 300px;
+  font-weight: bold;
+  padding-top: 50px;
+  padding-left: 100px;
+}
+
+.main6{
+  font-size: 18px;
+  text-align: left;
+  width:100%;
+  padding-bottom: 200px;
+  font-weight: lighter;
+  padding-left: 100px;
+  line-height: 2;
+}
+
+.footer-main{
+  background-color: black;
+  padding-bottom: 30px;
+}
+.footer{
+  text-align: right;
+}
+.footer-name{
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  padding-left:30px ;
+}
+
+.copyright{
+  color: white;
+  text-align: center;
+}
+
