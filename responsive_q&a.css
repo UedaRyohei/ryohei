@@ -1,0 +1,132 @@
+@media (max-width:1000px) {
+  /* lessonクラスのCSSを指定してください */
+  .container1{
+    flex-direction: column; 
+    text-align: right;
+    padding-right: 1200px;
+    width: 100%;
+  }
+}
+/* スマホ向けレイアウト */
+
+/* ブレイクポイントが670px以下の時のメディアクエリを設定してください */
+@media (max-width: 670px) {
+  /* .lessonのwidthを100%に指定してください */
+  .logo{
+    height: 90px;
+  }
+  
+  .container1{
+    flex-direction: column; 
+    text-align: right;
+    padding-right: 1200px;
+    width: 100%;
+  }
+  .contents{
+    width: 100%;
+    text-align: center;
+  }
+  h1{
+    font-size: 25px;
+  }
+
+
+  h2{
+    font-size: 25px;
+    padding-right: 200px;
+    width: 100%;
+    text-align: left;
+  }
+
+  .con1{
+    font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+  }
+
+.container2{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.faq{
+  font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+}
+
+.faq1{
+  font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+}
+
+.faq2{
+  font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+}
+
+.faq3{
+  font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+}
+
+.faq4{
+  font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+}
+
+
+.aaa1{
+  font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+}
+
+.aaa2{
+  font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+}
+
+.aaa3{
+  font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+}
+
+.aaa4{
+  font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+}
+
+  /* <footer>の中身を中央寄せにしてください。 */
+
+  .footer{
+    text-align:right;
+    font-size: 10px;
+    padding-right: 30px;
+    width: 100%;
+    margin-bottom: 1px;
+    padding-bottom: 1px;
+    height: auto;
+  }
+}

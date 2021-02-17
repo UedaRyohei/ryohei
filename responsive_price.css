@@ -1,0 +1,218 @@
+@media (max-width:1000px) {
+  /* lessonクラスのCSSを指定してください */
+  .container1{
+    flex-direction: column; 
+    text-align: right;
+    padding-right: 1200px;
+    width: 100%;
+  }
+}
+/* スマホ向けレイアウト */
+
+/* ブレイクポイントが670px以下の時のメディアクエリを設定してください */
+@media (max-width: 670px) {
+  /* .lessonのwidthを100%に指定してください */
+  .logo{
+    height: 90px;
+  }
+  
+  .container1{
+    flex-direction: column; 
+    text-align: right;
+    padding-right: 1200px;
+    width: 100%;
+  }
+  .contents{
+    width: 100%;
+    text-align: center;
+  }
+  h1{
+    font-size: 25px;
+  }
+
+
+  h2{
+    font-size: 25px;
+    padding-right: 200px;
+    width: 100%;
+    text-align: left;
+  }
+
+  .con1{
+    font-size: 15px;
+    width: 100%;
+    text-align: left;
+    padding-left: 1px;
+  }
+.aaa{
+  text-align: left;
+  padding-left: 80px;
+  width: 100%;
+}
+
+.bbb{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.ccc{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.ddd{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.eee{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.fff{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.container2{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.item1{
+  width: 95%;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+.item2{
+  width: 95%;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+.item3{
+  width: 95%;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+
+.ggg{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.hhh{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.iii{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 15px;
+}
+
+.jjj{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.kkk{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.lll{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 15px;
+}
+
+.mmm{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.nnn{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 15px;
+}
+
+.ooo{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.ppp{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 15px;
+}
+
+.qqq{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 20px;
+}
+
+.rrr{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 15px;
+}
+
+.sss{
+  text-align: left;
+  width: 100%;
+  padding-left: 1px;
+  font-size: 10px;
+}
+
+
+  /* <footer>の中身を中央寄せにしてください。 */
+
+  .footer{
+    text-align:right;
+    font-size: 10px;
+    padding-right: 30px;
+    width: 100%;
+    margin-bottom: 1px;
+    padding-bottom: 1px;
+    height: auto;
+  }
+}
