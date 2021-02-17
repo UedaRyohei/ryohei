@@ -1,0 +1,138 @@
+body{
+  font-family: 'Times New Roman';
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.logo {
+  height: 100px;
+  width: auto;
+  float:left
+
+}
+
+.container1 {
+  display: flex;
+  padding-top:75px;
+}
+
+.nav-link{
+  margin:0 60px 0 60px ;
+  color: blue;
+  background-color: #abf1ec;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  border : solid 2px rgb(96, 153, 218) ;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  padding-top: 50px;
+
+}
+hr{
+  width: 10%;
+}
+
+.aaa{
+  padding-left: 80px;
+}
+
+.aaa1{
+  padding-left: 80px;
+  font-size: 20px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.faq{
+  padding-left: 80px;
+}
+.faq-list-item {
+  margin:10px;
+  border-bottom:1px solid #ccc;
+  position:relative;
+  cursor:pointer;
+  text-align: left;
+}
+
+.faq-list-item h3 {
+  font-size: 25px;
+}
+
+.faq-list-item span {
+  position:absolute;
+  top:0;
+  right:5px;
+  color:#ccc;
+  font: size 20px;
+}
+
+.answer {
+  font-size: 17px;
+  padding: 5px 0px;
+  margin-bottom: 15px;
+  /* displayプロパティをnoneにしてください */
+  display: none;
+  font-weight: bolder;
+}
+
+.aaa2{
+  padding-top: 20px;
+  padding-left: 80px;
+  font-size: 20px;
+  padding-bottom: 40px;
+}
+.faq1{
+  padding-left: 80px;
+}
+
+.aaa3{
+  padding-left: 80px;
+  font-size: 20px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.faq2{
+  padding-left: 80px;
+}
+
+.aaa4{
+  padding-left: 80px;
+  font-size: 20px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+.faq3{
+  padding-left: 80px;
+}
+
+.footer-main{
+  background-color: black;
+  padding-bottom: 30px;
+}
+.footer{
+  text-align: right;
+}
+.footer-name{
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  padding-left:30px ;
+}
+
+.copyright{
+  color: white;
+  text-align: center;
+}

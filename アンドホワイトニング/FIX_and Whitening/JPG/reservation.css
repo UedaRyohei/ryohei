@@ -1,0 +1,122 @@
+body{
+  font-family: 'Times New Roman';
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.logo {
+  height: 100px;
+  width: auto;
+  float:left
+
+}
+
+.container1 {
+  display: flex;
+  padding-top:75px;
+}
+
+.nav-link{
+  margin:0 40px 0 40px ;
+  color: blue;
+  background-color: #abf1ec;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  border : solid 2px rgb(96, 153, 218) ;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  padding-top: 50px;
+
+}
+hr{
+  width: 10%;
+}
+
+
+.step1{
+  padding-left: 180px;
+  font-size: 40px;
+  font-weight: bold;
+  color: skyblue;
+}
+
+.step2{
+font-size: 30px;
+font-weight: bold;
+padding-left: 180px;
+}
+
+
+
+.img1{
+  width: 400px;
+  height: 400px;
+}
+
+table{
+  margin-bottom: 100px;
+  padding-left:180px;
+  margin-right: 20px;
+  font-size: 18px;
+}
+.aaa1{
+  padding-bottom: 15px;
+  font-weight: bolder;
+}
+
+.aaa2{
+  padding-bottom: 15px;
+  font-weight: bolder;
+}
+
+.aaa3{
+  padding-bottom: 15px;
+  font-weight: bolder;
+}
+
+.aaa4{
+  padding-bottom: 15px;
+  font-weight: bolder;
+}
+
+.aaa5{
+  padding-bottom: 15px;
+  font-weight: bolder;
+}
+
+
+.footer-main{
+  background-color: black;
+  padding-bottom: 30px;
+}
+.footer{
+  text-align: right;
+}
+.footer-name{
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  padding-left:30px ;
+}
+
+.copyright{
+  color: white;
+  text-align: center;
+}
+
+.table5{
+  padding-bottom:100px
+}
+
+
